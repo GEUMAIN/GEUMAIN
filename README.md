@@ -1,4 +1,5 @@
 ### Hi there 👋
+###자바 파이썬 C언어를 열심히 공부하고 있는 학생입니다.
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=500&section=header&text=Welcome!&fontSize=90" />
 ### used at least once 😊
 <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
