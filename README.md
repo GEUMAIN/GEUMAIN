@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-
+<img src="https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=csharp&logoColor=white">
 <!--
 **GEUMAIN/GEUMAIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
