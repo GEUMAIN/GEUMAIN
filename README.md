@@ -2,7 +2,7 @@
 안녕하세요
 자바 파이썬 C언어를 열심히 공부하고 있는 학생입니다.
 아직 실력은 많이 부족한 학생이지만 열심히 공부해보겠습니다!
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=500&section=header&text=Welcome to jeong in seo's github!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=500&section=header&text=Welcome to jeong in seo's github!&fontSize=50" />
 ### used at least once 😊
 <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
