@@ -2,7 +2,7 @@
 ### 안녕하세요
 ### 자바 파이썬 C#을 열심히 공부하고 있는 학생입니다.
 ### 아직 실력은 많이 부족한 학생이지만 열심히 공부해보겠습니다!
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=500&section=header&text=Welcome!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=500&section=header&text=Welcome!&fontSize=90&animation = twinkling" />
 
 # About me 😁
 | What | When | Where |
