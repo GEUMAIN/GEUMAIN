@@ -31,7 +31,7 @@
 # Top Langs ✔
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GEUMAIN&langs_count=8)](https://github.com/GEUMAIN/github-readme-stats)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&animation=twinkling&section=header&fontSize=90"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&animation=twinkling&section=header&fontSize=90"/>
 <!--
 **GEUMAIN/GEUMAIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
