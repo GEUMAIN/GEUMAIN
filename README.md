@@ -26,6 +26,8 @@
 | 성일정보고등학교 소프트웨어과 재학중 | 2023. 03 ~ 현재 | Sungil Information High School |
 | 성일정보고등학교 게임개발 동아리 | 2023. 03 ~ 현재 | Sungil Information High School Game Development|
 | 성일정보고등학교 SSS 소프트웨어 스터디 소속 | 2023. 03 ~ 현재 | Sungil Software Study (SSS)|
+| 성일정보고등학교 방과후 자바 기초 | 2023. 04 ~ 현재 | Sungil Information High School Java foundation|
+| 성일정보고등학교 방과후 HTML 웹 수업 | 2023. 08 ~ 현재 | Sungil Information High School HTML Web Class|
 
 <!--
 **GEUMAIN/GEUMAIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
