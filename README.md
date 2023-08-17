@@ -2,7 +2,7 @@
 ### 안녕하세요
 ### 자바 파이썬 C#을 열심히 공부하고 있는 학생입니다.
 ### 아직 실력은 많이 부족한 학생이지만 열심히 공부해보겠습니다!
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=500&section=header&text=Welcome!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=500&section=header&text=Welcome!&fontSize=90"/>
 
 # About me 😁
 | What | When | Where |
@@ -31,7 +31,7 @@
 # Top Langs ✔
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GEUMAIN&langs_count=8)](https://github.com/GEUMAIN/github-readme-stats)
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&fontSize=90"/>
 <!--
 **GEUMAIN/GEUMAIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
