@@ -10,8 +10,8 @@
 | 성일정보고등학교 소프트웨어과 재학중 | 2023. 03 ~ 현재 | Sungil Information High School |
 | 성일정보고등학교 게임개발 동아리 | 2023. 03 ~ 현재 | Sungil Information High School Game Development|
 | 성일정보고등학교 SSS 소프트웨어 스터디 소속 | 2023. 03 ~ 현재 | Sungil Software Study (SSS)|
-| 성일정보고등학교 방과후 자바 기초 | 2023. 04 ~ 12 | Sungil Information High School Java foundation|
-| 성일정보고등학교 방과후 웹 수업 | 2023. 08 ~ 12 | Sungil Information High School Web Class|
+| 성일정보고등학교 방과후 자바 기초 | 2023. 04 ~ 2023. 12 | Sungil Information High School Java foundation|
+| 성일정보고등학교 방과후 웹 수업 | 2023. 08 ~ 2023. 12 | Sungil Information High School Web Class|
 
 # used at least once 😊
 <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
