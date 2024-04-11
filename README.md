@@ -12,6 +12,8 @@
 | 성일정보고등학교 SSS 소프트웨어 스터디 소속 | 2023. 03 ~ 현재 | Sungil Software Study (SSS)|
 | 성일정보고등학교 방과후 자바 기초 | 2023. 04 ~ 2023. 12 | Sungil Information High School Java foundation|
 | 성일정보고등학교 방과후 웹 수업 | 2023. 08 ~ 2023. 12 | Sungil Information High School Web Class|
+| 성일정보고등학교 방과후 자바 레벨3 수업 | 2024. 04.11 ~ 현재 | Sungil Information High School Java Level3|
+| 지방 기능경기대회 | 2024. 04.01 ~ 2024.04.04 | WorldSkills|
 
 # used at least once 😊
 <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
