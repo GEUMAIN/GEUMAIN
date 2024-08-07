@@ -14,8 +14,7 @@
 | 성일정보고등학교 방과후 웹 수업 | 2023. 08 ~ 2023. 12 | Sungil Information High School Web Class |
 | 지방 기능경기대회 | 2024-04.01 ~ 2024.04.04 | WorldSkills |
 | 성일정보고등학교 방과후 자바 레벨3 수업 | 2024. 04.11 ~ 2024.06.11 | Sungil Information High School Java Level3 |
-| 성일정보고등학교 게임개발 동아리 4팀 멘토 | 2024.04 ~ 현재 | Sungil Information High School
- Game Development 4 Team  Mentor |
+| 성일정보고등학교 게임개발 동아리 4팀 멘토 | 2024.04 ~ 현재 | Sungil Information High School Game Development 4 Team  Mentor |
 | 성일정보고등학교 SSS 게임개발 스터디 멘토 | 2024.04 ~ 현재 | SSS Game Development Study Mentor |
 | 성일정보고등학교 방과후 자바 레벨4 수업 | 2024.06.19 ~ 2024.07.26 | Sungil Information High School Java Level4 |
 | 성남시 청소년 게임개발 대회 예선 기획서 작성 | 2024.06 ~ 2024.07.22 | Game Development Competition Tryout Plan Write |
