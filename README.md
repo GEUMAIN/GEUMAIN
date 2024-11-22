@@ -19,6 +19,9 @@
 | 성일정보고등학교 방과후 자바 레벨4 수업 | 2024.06.19 ~ 2024.07.26 | Sungil Information High School Java Level4 |
 | 성남시 청소년 게임개발 대회 예선 기획서 작성 | 2024.06 ~ 2024.07.22 | Game Development Competition Tryout Plan Write |
 | 신구대학교 게임개발 스터디 | 2024.07.24 | Shingu College Game Development Study |
+| 성일정보고등학교 SSS 웹 개발 스터디 멘티	|2024.09 ~ 현재	| SSS Web Development Study Mentee |
+| (주)메타씨티 회사 면접 최종 합격	| 2024.10.29	| Metacity Company Interview Final Acceptance |
+| 스마일게이트 퓨처랩 게임잼 팀 대회 컨셉상 수상	| 2024.10.31 ~ 2024.11.1 | SmileGate Future Lab  Game Jam Team Competition the contest concept award | 
 
 # used at least once 😊
 <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
